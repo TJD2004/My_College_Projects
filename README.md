@@ -1,4 +1,3 @@
-Simple Calculator Application
 Title: Simple Calculator Using Python
 
 Abstract:
