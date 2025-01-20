@@ -1,6 +1,6 @@
 import os
 
-from arithmetic import add, subtract, multiply, divide
+from basic_operations import add, subtract, multiply, divide
 
 
 LOG_FILE = 'logs/calculator_log.txt'
